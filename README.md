@@ -11,9 +11,13 @@ Erase - Esc, exit - end, line translation (enter) - enter.
 
 How to compile
 1.Install Arduino IDE
+
 2.Install bitluni ESP32Lib library for VGA monitor in Arduino IDE/library manager.
+
 3.Download and unzip the firmware archive.
+
 4.Compile for ESP32 ( https://wiki.iarduino.ru/page/esp32-windows/ )
+
 5.You can use and develop your programming skills 
 
 
