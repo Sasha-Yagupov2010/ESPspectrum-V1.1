@@ -9,7 +9,9 @@ This repository contains firmware version 1.1. It has functions for working with
 Control is very simple: with cvr in menus and WASD keys in games.
 Erase - Esc, exit - end, line translation (enter) - enter.
 
+
 How to compile
+
 1.Install Arduino IDE
 
 2.Install bitluni ESP32Lib library for VGA monitor in Arduino IDE/library manager.
@@ -22,3 +24,4 @@ How to compile
 
 
 Articles: https://habr.com/ru/users/Alexandr_Yagupov/publications/articles/ 
+Discord: https://discord.gg/WDUcSAcr
